@@ -1,0 +1,33 @@
+C:\Users\lchen2\Desktop\BCIT\C#\Assignment4\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csproj.CoreCompileInputs.cache
+C:\Users\lchen2\Desktop\BCIT\C#\Assignment4\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe.config
+C:\Users\lchen2\Desktop\BCIT\C#\Assignment4\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe
+C:\Users\lchen2\Desktop\BCIT\C#\Assignment4\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.pdb
+C:\Users\lchen2\Desktop\BCIT\C#\Assignment4\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.exe
+C:\Users\lchen2\Desktop\BCIT\C#\Assignment4\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.pdb
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe.config
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.pdb
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csproj.CoreCompileInputs.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.exe
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.pdb
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csprojAssemblyReference.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe.config
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.pdb
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csprojAssemblyReference.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csproj.CoreCompileInputs.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.exe
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.pdb
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csproj.CoreCompileInputs.cache
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.exe
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.pdb
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe.config
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe.config
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\bin\Debug\COMP2614Assign04.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csprojAssemblyReference.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.csproj.CoreCompileInputs.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 5\COMP2614Assign04\COMP2614Assign04\COMP2614Assign04\obj\Debug\COMP2614Assign04.pdb

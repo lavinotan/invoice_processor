@@ -1,0 +1,13 @@
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\obj\Debug\InoviceProcessor.csprojAssemblyReference.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\obj\Debug\InoviceProcessor.csproj.CoreCompileInputs.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\bin\Debug\InvoiceProcessor.exe.config
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\bin\Debug\InvoiceProcessor.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\bin\Debug\InvoiceProcessor.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\obj\Debug\InvoiceProcessor.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\COMP2614Assign04\obj\Debug\InvoiceProcessor.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\InoviceProcessor\bin\Debug\InvoiceProcessor.exe.config
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\InoviceProcessor\bin\Debug\InvoiceProcessor.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\InoviceProcessor\bin\Debug\InvoiceProcessor.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\InoviceProcessor\obj\Debug\InoviceProcessor.csproj.CoreCompileInputs.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\InoviceProcessor\obj\Debug\InvoiceProcessor.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\Job Interveiw & Portfolio\GitHub\invoice_processor\InoviceProcessor\obj\Debug\InvoiceProcessor.pdb
